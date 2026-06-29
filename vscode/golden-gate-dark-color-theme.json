@@ -352,8 +352,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#ef8667",
-        "fontStyle": "bold"
+        "foreground": "#ef8667"
       }
     },
     {
@@ -376,8 +375,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#87c4df",
-        "fontStyle": "bold"
+        "foreground": "#87c4df"
       }
     },
     {
@@ -390,8 +388,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#b7955a",
-        "fontStyle": "bold"
+        "foreground": "#b7955a"
       }
     },
     {
@@ -434,8 +431,7 @@
         "support.class.component"
       ],
       "settings": {
-        "foreground": "#ef8667",
-        "fontStyle": "bold"
+        "foreground": "#ef8667"
       }
     },
     {
@@ -556,20 +552,16 @@
   "semanticTokenColors": {
     "namespace": "#87c4df",
     "class": {
-      "foreground": "#b7955a",
-      "bold": true
+      "foreground": "#b7955a"
     },
     "enum": {
-      "foreground": "#b7955a",
-      "bold": true
+      "foreground": "#b7955a"
     },
     "interface": {
-      "foreground": "#b7955a",
-      "bold": true
+      "foreground": "#b7955a"
     },
     "struct": {
-      "foreground": "#b7955a",
-      "bold": true
+      "foreground": "#b7955a"
     },
     "type": "#b7955a",
     "typeParameter": "#c98243",
@@ -580,12 +572,10 @@
     "property.readonly": "#e19a5e",
     "enumMember": "#e19a5e",
     "function": {
-      "foreground": "#87c4df",
-      "bold": true
+      "foreground": "#87c4df"
     },
     "method": {
-      "foreground": "#87c4df",
-      "bold": true
+      "foreground": "#87c4df"
     },
     "macro": "#c98243",
     "decorator": "#ef8667",
@@ -598,9 +588,6 @@
     "string": "#aac276",
     "number": "#e19a5e",
     "regexp": "#65b8c7",
-    "*.declaration": {
-      "bold": true
-    },
     "*.deprecated": {
       "foreground": "#7d735f",
       "strikethrough": true

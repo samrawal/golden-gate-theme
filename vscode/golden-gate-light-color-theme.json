@@ -352,8 +352,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#a84732",
-        "fontStyle": "bold"
+        "foreground": "#a84732"
       }
     },
     {
@@ -376,8 +375,7 @@
         "variable.function"
       ],
       "settings": {
-        "foreground": "#1e668e",
-        "fontStyle": "bold"
+        "foreground": "#1e668e"
       }
     },
     {
@@ -390,8 +388,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#7a5b2e",
-        "fontStyle": "bold"
+        "foreground": "#7a5b2e"
       }
     },
     {
@@ -434,8 +431,7 @@
         "support.class.component"
       ],
       "settings": {
-        "foreground": "#a84732",
-        "fontStyle": "bold"
+        "foreground": "#a84732"
       }
     },
     {
@@ -556,20 +552,16 @@
   "semanticTokenColors": {
     "namespace": "#1e668e",
     "class": {
-      "foreground": "#7a5b2e",
-      "bold": true
+      "foreground": "#7a5b2e"
     },
     "enum": {
-      "foreground": "#7a5b2e",
-      "bold": true
+      "foreground": "#7a5b2e"
     },
     "interface": {
-      "foreground": "#7a5b2e",
-      "bold": true
+      "foreground": "#7a5b2e"
     },
     "struct": {
-      "foreground": "#7a5b2e",
-      "bold": true
+      "foreground": "#7a5b2e"
     },
     "type": "#7a5b2e",
     "typeParameter": "#7d5412",
@@ -580,12 +572,10 @@
     "property.readonly": "#7b4b3e",
     "enumMember": "#7b4b3e",
     "function": {
-      "foreground": "#1e668e",
-      "bold": true
+      "foreground": "#1e668e"
     },
     "method": {
-      "foreground": "#1e668e",
-      "bold": true
+      "foreground": "#1e668e"
     },
     "macro": "#7a5b2e",
     "decorator": "#a84732",
@@ -598,9 +588,6 @@
     "string": "#4f6d2f",
     "number": "#7b4b3e",
     "regexp": "#2b7a8e",
-    "*.declaration": {
-      "bold": true
-    },
     "*.deprecated": {
       "foreground": "#8a7e6d",
       "strikethrough": true
