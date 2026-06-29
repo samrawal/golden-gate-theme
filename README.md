@@ -1,8 +1,18 @@
-# Golden Gate Themes
+# Golden Gate Themes (🌁 & 🌉)
 
 ![Golden Gate color scheme](./assets/promo/goldengate_colorscheme.jpeg)
 
 Warm light and dark editor themes inspired by a photo I took of the 🌉: bridge rust, bay blue, cypress green, cliff taupe, dry coastal sand, and a dark copper accent.
+
+![Golden Gate Bridge](./assets/promo/golden_gate.jpeg)
+
+## Set up
+- [macOS Terminal](#macos-terminal)
+- [VS Code](#vs-code)
+- [Vim / Neovim](#vim--neovim)
+- [Emacs](#emacs)
+- [Palettes](#palettes)
+
 
 ## macOS Terminal
 
@@ -92,8 +102,8 @@ For the dark variant:
 ```elisp
 (load-theme 'golden-gate-dark t)
 ```
-
-## Light Palette
+## Palettes
+### 🌁 Light Palette
 
 | Role | Color |
 | --- | --- |
@@ -106,7 +116,7 @@ For the dark variant:
 | Sand surface | `#eae0cf` |
 | Region blue | `#cfe1ee` |
 
-## Dark Palette
+### 🌉 Dark Palette
 
 | Role | Color |
 | --- | --- |
