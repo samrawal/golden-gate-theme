@@ -1,0 +1,40 @@
+{
+  "name": "golden-gate-theme",
+  "displayName": "Golden Gate Theme",
+  "description": "Warm light and dark VS Code themes inspired by the Golden Gate Bridge, bay water, cypress, coastal sand, and dark copper.",
+  "version": "0.1.0",
+  "publisher": "samrawal",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "golden gate",
+    "warm",
+    "light theme",
+    "dark theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samrawal/golden-gate-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Golden Gate Light",
+        "uiTheme": "vs",
+        "path": "./vscode/golden-gate-light-color-theme.json"
+      },
+      {
+        "label": "Golden Gate Dark",
+        "uiTheme": "vs-dark",
+        "path": "./vscode/golden-gate-dark-color-theme.json"
+      }
+    ]
+  }
+}
